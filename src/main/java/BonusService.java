@@ -1,6 +1,3 @@
-public class BonusService {
-    public long calculate(long amount, boolean registered) {
-    }
 
     public class BonusService {
         public long calculate(long amount, boolean registered) {
@@ -13,4 +10,4 @@ public class BonusService {
             return bonus;
         }
     }
-}
+
